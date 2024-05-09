@@ -1,5 +1,7 @@
 # SwiftUINavigationStackCoordinator
 
+블로그: https://velog.io/@quokka/SwiftUI-NavigationStack-Coordinator
+
 <img src="/Resource/app.gif" width="30%" height="30%"/>
 
 ## 파일구조
