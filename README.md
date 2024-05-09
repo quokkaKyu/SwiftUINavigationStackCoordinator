@@ -1,7 +1,5 @@
 # SwiftUINavigationStackCoordinator
 
-iOS16 이상 버전에서 사용할 SwiftUI NavigationStack Coordinator를 만들었습니다.
-
 <img src="/Resource/app.gif" width="30%" height="30%"/>
 
 ## 파일구조
