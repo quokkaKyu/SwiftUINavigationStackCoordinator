@@ -129,5 +129,5 @@ struct FirstView: View {
 ```
 
 ## Reference
-https://www.curiousalgorithm.com/post/router-pattern-for-swiftui-navigation
-https://medium.com/@zuxbcvf/exploring-scalable-swiftui-navigation-30f8438e9d6d
+- https://www.curiousalgorithm.com/post/router-pattern-for-swiftui-navigation
+- https://medium.com/@zuxbcvf/exploring-scalable-swiftui-navigation-30f8438e9d6d
